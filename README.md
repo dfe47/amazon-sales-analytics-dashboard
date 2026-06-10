@@ -15,6 +15,7 @@ Interactive Power BI dashboard built to analyze Amazon sales performance, revenu
 - Identified top-performing product categories
 - Tracked order status distribution
 - Visualized sales across geographic regions
-
+  
 ## Dashboard Preview
-![Dashboard](Amazon sales.png)
+
+<img src="Amazon sales.png" width="1000">
